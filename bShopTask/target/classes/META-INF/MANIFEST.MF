@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-Title: bShopTask
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: bShopTask
+Build-Jdk: 1.6.0_43
+Built-By: lcg
+Created-By: Maven Integration for Eclipse
+Implementation-URL: http://projects.spring.io/spring-boot/bShopTask/
+
